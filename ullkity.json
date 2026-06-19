@@ -1,0 +1,7 @@
+{
+  "subdomain": "ullkity",
+  "domain": "creepers.sbs",
+  "record": {
+    "CNAME": "ullkity-42pf.vercel.app"
+  }
+}
